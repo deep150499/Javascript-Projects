@@ -1,0 +1,27 @@
+body{
+    background-color:rgb(234, 144, 128);
+}
+
+.container{
+    border : 2px solid black;
+    margin-top: 10px;
+    width: 60%;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.quotes{
+    border: 1px solid black;
+    height: 50vh;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    color: white;
+    background-color: rgb(45, 44, 44);
+}
+
