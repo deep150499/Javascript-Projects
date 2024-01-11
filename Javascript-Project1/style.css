@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.container button{
+    margin: 8px;
+    padding: 8px;
+    width: 10%;
+    color: white;
+    background-color: rgb(95, 155, 211);
+}
