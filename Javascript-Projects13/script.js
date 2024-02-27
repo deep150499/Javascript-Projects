@@ -1,0 +1,1 @@
+let equal = document.getElementsByClassName('equal');
